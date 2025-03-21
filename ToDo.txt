@@ -1,0 +1,15 @@
+
+Test:
+- Is a react app still running, if installed as webapp via browser and the internet connection goes away?
+- Does the app run from local internet cache in that scenario? Is everything loaded locally once the app has started?
+
+Host nodejs/react app online, install and start on phone, cut connection
+
+https://www.npmjs.com/package/react-native-offline
+https://syndelltech.com/guide-to-create-react-native-offline-first-applications/
+
+heroicons:
+https://www.npmjs.com/package/@heroicons/react
+
+masterunitlist url with https:
+https://masterunitlist.azurewebsites.net/
